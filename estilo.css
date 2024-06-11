@@ -1,0 +1,61 @@
+
+ #carouselExampleCaptions{
+   position: relative;
+   margin: top 0px;
+   margin-left: 0px;
+ }
+ #carouselExample{
+   height: 200px;
+   width: 350px;
+   margin-top: 10px;
+   margin-left: 500px;
+   
+ }
+ .destacados{
+padding-top: 100px;
+padding-left: 5px;
+padding-bottom: 5px;
+
+
+ }
+ .hero{
+   background: url(img/gala\ y\ cachito.jpeg)no-repeat;
+   background-size: cover;
+   height: 0.5vh;
+   min-height: 600px;
+   color:black
+ }
+ .fst-italic{
+   margin-left: 20px;
+   margin-top: 10px;
+   margin-right: 20px;
+   background-color: bisque;
+   color:blueviolet
+   
+ }
+.image {
+padding-left: 15px;
+padding-top: 20px;
+}   
+
+.media{
+   display: flex;
+   align-items: flex-start;
+}
+
+.container{
+   background-color: aqua;
+   text-align: center;
+   margin-top: 15px;
+}
+
+
+.card{
+   background-color: #f0e68c;
+   margin-top: 250px;
+}
+
+.btn{
+   margin-top: 5px;
+   background-color:#006400
+}
